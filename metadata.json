@@ -1,0 +1,5 @@
+{
+  "name": "AI Fusion Hub",
+  "description": "A modern, responsive website where users can interact with and compare responses from multiple AI assistants, all powered by Google's Gemini API, on a single platform.",
+  "requestFramePermissions": []
+}
